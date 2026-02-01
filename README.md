@@ -19,8 +19,8 @@ Each class has clearly defined responsibilities and relationships to ensure scal
 
 ### 📂 Project Structure
 ...
-├── Hospital/
-├── Department/
-├── Person/
-│ ├── Patient/
-│ └── Staff/
+Hospital/
+└── Department/
+    └── Person/
+        ├── Patient/
+        └── Staff/
