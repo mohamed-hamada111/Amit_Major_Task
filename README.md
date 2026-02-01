@@ -18,10 +18,9 @@ Staff
 Each class has clearly defined responsibilities and relationships to ensure scalability and maintainability.
 
 ### 📂 Project Structure
-.
-├── Hospital
-├── Department
-├── Person
-│   ├── Patient
-│   └── Staff
-└── README.md
+...
+├── Hospital/
+├── Department/
+├── Person/
+│ ├── Patient/
+│ └── Staff/
