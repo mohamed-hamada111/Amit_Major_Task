@@ -19,7 +19,7 @@ Each class has clearly defined responsibilities and relationships to ensure scal
 
 ### 📂 Project Structure
 ```text
-.
+
 ├── Hospital/
 ├── Department/
 └── Person/
