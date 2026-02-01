@@ -10,12 +10,13 @@ The system is designed around the following core entities:
 
 <img width="627" height="534" alt="image" src="https://github.com/user-attachments/assets/9be8584f-eee8-4b36-a021-d2193dc658a6" />
 
-Hospital
-Department
-Person (Base class)
-Patient
-Staff
-Each class has clearly defined responsibilities and relationships to ensure scalability and maintainability.
+The system is built using the following core classes to manage hospital operations:
+
+* **Hospital**
+* **Department**
+* **Person (Base class)**
+* **Patient**
+* **Staff**
 
 ### 📂 Project Structure
 ```text
